@@ -6,7 +6,6 @@ import csv
 
 ROOT_PATH = Path(__file__).parent
 
-
 class ContaIterador:
     def __init__(self, contas):
         self.contas = contas
